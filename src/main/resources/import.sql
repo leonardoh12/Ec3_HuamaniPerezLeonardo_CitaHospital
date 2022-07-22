@@ -1,0 +1,3 @@
+insert into usuario_cliente(usuario,password,rol,id_cliente) values ('adrian1','$2a$12$y/vrBYIQ86yXtIkjlHboquOAbrGIOcCRnL3CCJQomNVCU9P5EDR1C','ROLE_USER',null)
+insert into usuario_cliente(usuario,password,rol,id_cliente) values ('adrian2','$2a$12$2C1d6XEpD31TWaMhj5nh2OaLV.98vOe2COiza6yCiERdNPU8FAHWa','ROLE_USER',null)
+insert into usuario_cliente(usuario,password,rol,id_cliente) values ('adrian3','$2a$12$udL3MLED9pVK4r.gQfgJT.KwKLY5hgaWt1dN7Q4/AzONwdfe2sHBq','ROLE_USER',null)
